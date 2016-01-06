@@ -1,0 +1,15 @@
+.sidebar {
+  float: right;
+  width: 20%;
+  background-color: lavender;
+}
+.column {
+  width: 40%;
+  float: left;
+}
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
