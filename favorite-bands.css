@@ -2,6 +2,10 @@
   float: right;
   width: 20%;
   background-color: lavender;
+  border: 3px solid maroon;
+  padding: 5px;
+  margin: 8px;
+
 }
 .column {
   width: 40%;
@@ -12,4 +16,7 @@
 }
 .right {
   float: right;
+}
+img {
+  padding: 10px;
 }
