@@ -8,8 +8,17 @@
 
 }
 .column {
+  width: 30%;
+  float: left;
+  background-color: yellow;
+  padding: 15px;
+
+}
+.column2 {
   width: 40%;
   float: left;
+  background-color: green;
+  padding: 15px;
 }
 .left {
   float: left;
@@ -19,4 +28,6 @@
 }
 img {
   padding: 10px;
+
+
 }
